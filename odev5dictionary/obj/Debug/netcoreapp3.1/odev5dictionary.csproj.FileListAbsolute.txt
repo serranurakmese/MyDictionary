@@ -1,0 +1,13 @@
+C:\Users\Serra Nur Akmeşe\source\repos\Methods\odev5dictionary\bin\Debug\netcoreapp3.1\odev5dictionary.exe
+C:\Users\Serra Nur Akmeşe\source\repos\Methods\odev5dictionary\bin\Debug\netcoreapp3.1\odev5dictionary.deps.json
+C:\Users\Serra Nur Akmeşe\source\repos\Methods\odev5dictionary\bin\Debug\netcoreapp3.1\odev5dictionary.runtimeconfig.json
+C:\Users\Serra Nur Akmeşe\source\repos\Methods\odev5dictionary\bin\Debug\netcoreapp3.1\odev5dictionary.runtimeconfig.dev.json
+C:\Users\Serra Nur Akmeşe\source\repos\Methods\odev5dictionary\bin\Debug\netcoreapp3.1\odev5dictionary.dll
+C:\Users\Serra Nur Akmeşe\source\repos\Methods\odev5dictionary\bin\Debug\netcoreapp3.1\odev5dictionary.pdb
+C:\Users\Serra Nur Akmeşe\source\repos\Methods\odev5dictionary\obj\Debug\netcoreapp3.1\odev5dictionary.csprojAssemblyReference.cache
+C:\Users\Serra Nur Akmeşe\source\repos\Methods\odev5dictionary\obj\Debug\netcoreapp3.1\odev5dictionary.AssemblyInfoInputs.cache
+C:\Users\Serra Nur Akmeşe\source\repos\Methods\odev5dictionary\obj\Debug\netcoreapp3.1\odev5dictionary.AssemblyInfo.cs
+C:\Users\Serra Nur Akmeşe\source\repos\Methods\odev5dictionary\obj\Debug\netcoreapp3.1\odev5dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Serra Nur Akmeşe\source\repos\Methods\odev5dictionary\obj\Debug\netcoreapp3.1\odev5dictionary.dll
+C:\Users\Serra Nur Akmeşe\source\repos\Methods\odev5dictionary\obj\Debug\netcoreapp3.1\odev5dictionary.pdb
+C:\Users\Serra Nur Akmeşe\source\repos\Methods\odev5dictionary\obj\Debug\netcoreapp3.1\odev5dictionary.genruntimeconfig.cache
