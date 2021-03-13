@@ -6,13 +6,13 @@ namespace odev5dictionary
     {
         static void Main(string[] args)
         {
-            MyDictionary<string,string> names = new MyDictionary<string,string>();
-            names.Add("1","Engin");
+            MyDictionary<int,string> names = new MyDictionary<int,string>();
+            names.Add("1","Serra");
 
             Console.WriteLine(names.Length);
          
 
-            names.Add("2","Kerem");
+            names.Add("2","Nur");
 
             Console.WriteLine(names.Length);
            
